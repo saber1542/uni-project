@@ -4,6 +4,15 @@
 
 
 
+struct rooms
+{
+    char class;
+    int floor;
+    int roomNumber;
+
+};
+
+
 
 
 
